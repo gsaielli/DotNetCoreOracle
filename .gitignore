@@ -3,3 +3,11 @@
 ################################################################################
 
 /OracleCloudDB/bin/Debug/netcoreapp3.1
+/OracleCloudDB/obj
+/OracleCloudDB/OracleWallet/ojdbc.properties
+/OracleCloudDB/OracleWallet/keystore.jks
+/OracleCloudDB/OracleWallet/ewallet.p12
+/OracleCloudDB/OracleWallet/cwallet.sso
+/OracleCloudDB/OracleWallet/truststore.jks
+/OracleCloudDB/OracleWallet/tnsnames.ora
+/OracleCloudDB/OracleWallet/sqlnet.ora

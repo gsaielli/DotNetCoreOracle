@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleCloudDB", "OracleCloudDB\OracleCloudDB.csproj", "{C5F0FB6F-1589-4462-B759-5F670B6B7B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F0FB6F-1589-4462-B759-5F670B6B7B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F0FB6F-1589-4462-B759-5F670B6B7B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F0FB6F-1589-4462-B759-5F670B6B7B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F0FB6F-1589-4462-B759-5F670B6B7B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E71EA003-70D2-4B31-BCEE-696A965912BE}
+	EndGlobalSection
+EndGlobal
