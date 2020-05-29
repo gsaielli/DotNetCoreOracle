@@ -1,2 +1,2 @@
 # DotNetCoreOracle
-Getting started with .Net Core and Oracle
+Getting started with .Net Core and Oraclez
